@@ -1,0 +1,20 @@
+{
+    "depoimentos": [
+        {
+            "id": "1",
+            "depoimento_nome": "Kalil Sousa",
+            "depoimento_imagem": "https://wendellcarvalho.com.br/wp-content/uploads/2023/07/Saiba-o-que-e-uma-pessoa-temperamental-e-como-esse-comportamento-pode-afetar-diferentes-areas-da-vida.jpg",
+            "depoimento_nota": "5",
+            "depoimento_descricao": "O café é realmente bom, e os salgados também (pedi um croissant de 4 queijos). Já havia pedido antes via iFood mas resolvi fazer uma visita enquanto andava pelo Centro, o café fica mesmo ao lado da Praça do Ferreira. Vale a pena dar uma visitada quando quiser se refrescar com um café gelado deles ou tomar um café da manhã por lá."
+        }
+    ],
+    "noticias":[
+        {
+            "id": "1",
+            "noticia_titulo": "Conheça cinco lugares no centro para ir com os amigos",
+            "noticia_imagem": "https://applicativa-marketplace-prod.s3.amazonaws.com/blog/cafe-imagem-artigo.jpg",
+            "noticia_link": "https://google.com",
+            "noticia_descricao": "lorem ipsum dolor"
+        }
+    ]
+}
